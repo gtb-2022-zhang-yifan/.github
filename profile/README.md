@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Yifan Zhang. (Added by git for in-course exercise)
+
 <!--
 
 **Here are some ideas to get you started:**
