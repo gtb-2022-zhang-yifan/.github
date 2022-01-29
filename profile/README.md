@@ -24,7 +24,7 @@ I took this photo just after we get free from the city lockdown of Xi'an.
 
 ![meal1](/assets/5.jpg)
 
-I enjoy the process of cooking which with all my attention, just like I fight on the new logic challenges while I'm coding.
+I enjoy the process of cooking which with all my attention, just like I enjoy fighting on the new logic challenges everytime while I'm coding.
 
 <!--
 
