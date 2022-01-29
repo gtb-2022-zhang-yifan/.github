@@ -2,6 +2,12 @@
 
 This is Yifan Zhang. (Added by git for in-course exercise)
 
+Happy Chinese New year:red_envelope::red_envelope:!! (For whom may visit this page)
+
+You can see me here: :point_down:
+
+![me]()
+
 <!--
 
 **Here are some ideas to get you started:**
