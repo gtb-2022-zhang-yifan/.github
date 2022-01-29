@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Yifan Zhang. (Added by git for in-course exercise)
+This is Yifan Zhang. (Added by git for in-course exercise, only this line)
 
 **Happy Chinese New Year**:red_envelope::red_envelope:, for whom may visit this page.
 
