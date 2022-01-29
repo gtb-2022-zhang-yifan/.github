@@ -2,21 +2,21 @@
 
 This is Yifan Zhang. (Added by git for in-course exercise)
 
-**Happy Chinese New year**:red_envelope::red_envelope:, for whom may visit this page.
+**Happy Chinese New Year**:red_envelope::red_envelope:, for whom may visit this page.
 
-- You can see me here: :point_down:
+### - You can see me here: :point_down:
 
 ![me](/assets/1.jpg)
 
 I was walking on the beach of Brighton with my friends in the last year, who are on my right side, but out of the boundary LOL.
 
-- Here is my hometown: :point_down:
+### - Here is my hometown: :point_down:
 
 ![hometown](/assets/2.jpg)
 
 I took this photo just after we get free from the city lockdown of Xi'an.
 
-- I'd like to share some meals which were made by myself during the lockdown.
+### - I'd like to share some meals which were made by myself during the lockdown.
 
 ![meal1](/assets/3.jpg)
 
